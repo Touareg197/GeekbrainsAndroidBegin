@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+
+    <string name="app_name_rus">Первое ДЗ</string>
+
+    <string name="first_task">Первая задача</string>
+    <string name="second_task">Вторая задача</string>
+    <string name="third_task">Третья задача</string>
+
+    <string name="hello_from_first_home_work">Hello from First Home Work</string>
+    <string name="write_something_here_hint">Напишите здесь что-то</string>
+    <string name="just_button">Кнопка</string>
+    <string name="select_this_checkbox_hint">Выберите этот чек-бокс</string>
+</resources>
